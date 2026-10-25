@@ -21,9 +21,24 @@ Colonne « Ton explication » : à compléter avec ce que tu me dis sur chaque c
 | IMG11 | `images/IMG11_hiver-arrive-bleu.jpg` | Saisonnier : hiver | الشتاء جاي · روتين كامل للشعر واللحية | Bleu, flocons | |
 | IMG12 | `images/IMG12_paiement-livraison-checklist.jpg` | Réassurance (COD, livraison) | اطلب توّا وخلّص كي يوصلك | Crème, coches vertes | |
 
-## Vidéos courtes
+## Vidéos courtes (série AURA4)
 
-_(à venir)_
+Toutes avec musique (AAC), en 1080 px de large. Fin commune : carte prix 49 DT + bandeau téléphone / paiement à la livraison.
+
+| Code | Formats (fichiers dans `videos-courtes/`) | Durée | Angle | Déroulé | Image liée | Ton explication |
+|---|---|---|---|---|---|---|
+| V01 offre | 4:5, 9:16 | 9 s | Offre exceptionnelle | عرض استثنائي، cartes des 5 produits, prix 49 DT, CTA | IMG08 | |
+| V02 calcul | 4:5, 9:16 | 10 s | Prix par pièce | أقل من 10 د.ت للقطعة, 9.8 DT sous chaque produit, 5 × 9.8 = 49 | IMG09 | |
+| V03 prixbarre | 1:1, 9:16 | 6 s | Prix barré | 110 barré → 49 DT, « le pack complet, 5 pièces » | IMG01 | |
+| V04 comparatif | 9:16 | 10 s | Pack vs à la pièce | علاش تشري بالقطعة؟, carte « في الباك » vs « بالقطعة », économie de 61 DT | IMG04 | |
+| V05 toutca | 4:5, 9:16 | 11 s | Valeur perçue (rushs réels) | شوف آش فمّا في الباك : rushs brosse, applicateur, sidr, derma, puis « tout ça pour 49 DT » | IMG10 | |
+| V06 sidr | 9:16 | 12 s | Produit héros : sidr | Rushs sidr (mélange à l'eau tiède, massage), « et avec lui dans le pack… », fin 49 DT | IMG02 | |
+| V07 derma540 | 9:16 | 10 s | Produit héros : derma roller | Rushs derma roller, « avec l'huile de romarin dans le même pack », fin 49 DT | IMG03 | |
+| V08 etapes | 4:5, 9:16 | 15 s | Routine en 4 étapes | روتين ساهل في 4 خطوات, rushs huile sur racines, massage, sidr, fin 49 DT | IMG05 | |
+| V09 cod | 9:16 | 8 s | Réassurance | اطلب توّا وخلّص كي يوصلك, rush colis, 3 coches (5 pièces, paiement à la livraison, toute la Tunisie) | IMG12 | |
+| V10 hiver | 4:5, 9:16 | 8 s | Saisonnier : hiver | الشتاء جاي, cartes des 5 produits, bandeau jaune 49 DT | IMG11 | |
+
+Pas encore de déclinaison vidéo pour IMG06 (cadeau) ni IMG07 (Black Friday).
 
 ## Vidéos longues
 
@@ -35,4 +50,4 @@ _(à venir)_
 
 ## Points à corriger
 
-- Toutes les images (IMG01 à IMG12) affichent le numéro **« 50 500 051 » avec des espaces** dans le bandeau du bas. La règle de la boutique est de l'écrire sans espace : **50500051**.
+- Toutes les images (IMG01 à IMG12) et la carte de fin des vidéos AURA4 affichent le numéro **« 50 500 051 » avec des espaces** dans le bandeau du bas. La règle de la boutique est de l'écrire sans espace : **50500051**.
