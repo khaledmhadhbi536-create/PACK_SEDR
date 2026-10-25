@@ -37,8 +37,14 @@ Toutes avec musique (AAC), en 1080 px de large. Fin commune : carte prix 49 DT +
 | V08 etapes | 4:5, 9:16 | 15 s | Routine en 4 étapes | روتين ساهل في 4 خطوات, rushs huile sur racines, massage, sidr, fin 49 DT | IMG05 | |
 | V09 cod | 9:16 | 8 s | Réassurance | اطلب توّا وخلّص كي يوصلك, rush colis, 3 coches (5 pièces, paiement à la livraison, toute la Tunisie) | IMG12 | |
 | V10 hiver | 4:5, 9:16 | 8 s | Saisonnier : hiver | الشتاء جاي, cartes des 5 produits, bandeau jaune 49 DT | IMG11 | |
+| V11 cadeau | 9:16 | 10 s | Cadeau (cible femmes) | Boîte cadeau qui s'ouvre, le pack sort, لبوك / لخوك / لراجلك, prix | IMG06 | |
+| V12 blackfriday | 1:1, 9:16 | 7 s | Saisonnier : Black Friday (27/11) | BLACK FRIDAY en glitch, tampon -55 %, barre prix 49, bouton | IMG07 | |
+| V13 asmr | 9:16 | 12 s | ASMR, vrais produits | « علّي الصوت », froissement du plastique, produits avec leur son, sidr fouetté, offre | – | |
+| V14 pov | 9:16 | 8 s | POV / natif | « POV: لقيت باك كامل بـ 49 د.ت », produits sur la table avec leurs noms, offre | – | |
 
-Pas encore de déclinaison vidéo pour IMG06 (cadeau) ni IMG07 (Black Friday).
+Brief d'origine de la série (hooks détaillés, textes Ads Manager A à D, titres, plan de lancement) : `videos-courtes/BRIEF_AURA4.md`.
+
+Plan de lancement prévu dans le brief : campagne « test créas » séparée à ~30 DT/jour ; vague 1 = V01, V02, V03, V04, V05, V09 ; décision après 3-4 jours ; vague 2 = V06, V07, V08, V13, V14 ; V11 et V12 à leurs dates.
 
 ## Vidéos longues
 
@@ -51,3 +57,4 @@ _(à venir)_
 ## Points à corriger
 
 - Toutes les images (IMG01 à IMG12) et la carte de fin des vidéos AURA4 affichent le numéro **« 50 500 051 » avec des espaces** dans le bandeau du bas. La règle de la boutique est de l'écrire sans espace : **50500051**.
+- Les textes Ads Manager A, B, C et D du brief AURA4 écrivent aussi « 50 500 051 » avec des espaces.
