@@ -46,15 +46,25 @@ Brief d'origine de la série (hooks détaillés, textes Ads Manager A à D, titr
 
 Plan de lancement prévu dans le brief : campagne « test créas » séparée à ~30 DT/jour ; vague 1 = V01, V02, V03, V04, V05, V09 ; décision après 3-4 jours ; vague 2 = V06, V07, V08, V13, V14 ; V11 et V12 à leurs dates.
 
-## Vidéos longues
+## Vidéos longues (série AURA5, 25 à 42 s)
 
-_(à venir)_
+Barre de progression en haut, chapitres numérotés, relance toutes les 5 à 7 s, musique par univers, sans voix off. Fichiers dans `videos-longues/`.
+
+| Code | Formats | Durée | Univers | Approche | Usage prévu | Ton explication |
+|---|---|---|---|---|---|---|
+| L01 guide | 4:5, 9:16 | 42 s | Kraft naturel | Guide complet : 5 pièces, rituel en 4 étapes, fréquence, offre | Prospection | |
+| L02 faq | 9:16 | 33 s | Interface de messagerie | 5 questions/réponses en bulles | Retargeting | |
+| L03 pourquoi49 | 4:5, 9:16 | 29 s | Néo-brutal jaune/noir/rouge | La valeur : jauge « قيمة الباك », 110 barré, tampon 49 | Prospection | |
+| L04 rituel | 9:16 | 39 s | Éditorial premium noir/or | Rituel du dimanche, image de marque | Retargeting | |
+| L05 sidibousaid | 9:16 | 33 s | Sidi Bou Saïd | Héritage : « سرّ الحمّام متاع جدودنا », 4 arches | Retargeting / marque | |
+| L06 derma | 9:16 | 31 s | Infographie tech | Explication du derma 540 et 3 règles d'utilisation | Retargeting | |
+| L07 5raisons | 4:5, 9:16 | 35 s | Magazine | 5 raisons d'acheter (01 à 05) | Prospection | |
+| L08 colis | 4:5, 9:16 | 33 s | Documentaire | Du colis à la routine : la vidéo de confiance | Retargeting | |
+| L09 hdiya | 9:16 | 29 s | Blush cadeau | Cadeau pour un homme | Ensemble femmes 22-45 ans | |
+| L10 minuteur | 9:16 | 25 s | Clean + minuteur | « 10 دقايق في الجمعة », chrono pendant les 4 étapes | Prospection / test | |
+
+Brief d'origine (textes Ads Manager par vidéo, titres, plan prospection / retargeting, KPI ThruPlay et 50 %) : `videos-longues/BRIEF_AURA5.md`.
 
 ## Catalogue
 
 _(à venir)_
-
-## Points à corriger
-
-- Toutes les images (IMG01 à IMG12) et la carte de fin des vidéos AURA4 affichent le numéro **« 50 500 051 » avec des espaces** dans le bandeau du bas. La règle de la boutique est de l'écrire sans espace : **50500051**.
-- Les textes Ads Manager A, B, C et D du brief AURA4 écrivent aussi « 50 500 051 » avec des espaces.
